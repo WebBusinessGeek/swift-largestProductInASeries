@@ -13,6 +13,9 @@
 		CB0F1A1A1BA9B9AC0072406A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB0F1A191BA9B9AC0072406A /* Images.xcassets */; };
 		CB0F1A1D1BA9B9AC0072406A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB0F1A1B1BA9B9AC0072406A /* LaunchScreen.xib */; };
 		CB0F1A291BA9B9AC0072406A /* largestProductInASeriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0F1A281BA9B9AC0072406A /* largestProductInASeriesTests.swift */; };
+		CB0F1A331BA9BB5A0072406A /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0F1A321BA9BB5A0072406A /* Algorithm.swift */; };
+		CB0F1A381BA9BEDE0072406A /* AlgorithmTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0F1A341BA9BBCA0072406A /* AlgorithmTest.swift */; };
+		CB7C09891BA9C084000CFF0B /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0F1A321BA9BB5A0072406A /* Algorithm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,8 @@
 		CB0F1A221BA9B9AC0072406A /* largestProductInASeriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = largestProductInASeriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB0F1A271BA9B9AC0072406A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB0F1A281BA9B9AC0072406A /* largestProductInASeriesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = largestProductInASeriesTests.swift; sourceTree = "<group>"; };
+		CB0F1A321BA9BB5A0072406A /* Algorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
+		CB0F1A341BA9BBCA0072406A /* AlgorithmTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlgorithmTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +88,7 @@
 				CB0F1A191BA9B9AC0072406A /* Images.xcassets */,
 				CB0F1A1B1BA9B9AC0072406A /* LaunchScreen.xib */,
 				CB0F1A101BA9B9AC0072406A /* Supporting Files */,
+				CB0F1A321BA9BB5A0072406A /* Algorithm.swift */,
 			);
 			path = largestProductInASeries;
 			sourceTree = "<group>";
@@ -98,6 +104,7 @@
 		CB0F1A251BA9B9AC0072406A /* largestProductInASeriesTests */ = {
 			isa = PBXGroup;
 			children = (
+				CB0F1A341BA9BBCA0072406A /* AlgorithmTest.swift */,
 				CB0F1A281BA9B9AC0072406A /* largestProductInASeriesTests.swift */,
 				CB0F1A261BA9B9AC0072406A /* Supporting Files */,
 			);
@@ -213,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB0F1A151BA9B9AC0072406A /* ViewController.swift in Sources */,
+				CB0F1A331BA9BB5A0072406A /* Algorithm.swift in Sources */,
 				CB0F1A131BA9B9AC0072406A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,6 +230,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB0F1A291BA9B9AC0072406A /* largestProductInASeriesTests.swift in Sources */,
+				CB7C09891BA9C084000CFF0B /* Algorithm.swift in Sources */,
+				CB0F1A381BA9BEDE0072406A /* AlgorithmTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +417,7 @@
 				CB0F1A2E1BA9B9AC0072406A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB0F1A2F1BA9B9AC0072406A /* Build configuration list for PBXNativeTarget "largestProductInASeriesTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +426,7 @@
 				CB0F1A311BA9B9AC0072406A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
