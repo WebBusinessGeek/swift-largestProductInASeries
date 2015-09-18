@@ -26,6 +26,14 @@ class AlgorithmTest: XCTestCase {
         XCTAssertEqual(correct,result);
     }
     
+    func testItCanFindProductOfSpecifiedRangeOfElementsInIntArray() {
+        let alg = Algorithm();
+        let integerArray = [1,2,3,4,5,6,7,8,9,10,11,12];
+        let result = alg.findProductOfSpecifiedRangeOfElementsInIntArray(integerArray, rangeStart: 2, rangeStop: 7);
+        let correct = 3 * 4 * 5 * 6 * 7 * 8;
+        XCTAssertEqual(correct, result);
+    }
+    
     
 //    func testItReturns5832WhenArgsAreStringAnd4() {
 //        let alg = Algorithm();

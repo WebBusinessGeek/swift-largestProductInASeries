@@ -26,5 +26,17 @@ class Algorithm: NSObject {
         return integerArray;
     }
     
+    func findProductOfSpecifiedRangeOfElementsInIntArray(intArray: [Int], rangeStart: Int, rangeStop: Int) -> Int {
+        var productOfRanges: Int = 1;
+        var counter = rangeStart;
+        while(counter <= rangeStop) {
+            productOfRanges *= intArray[counter]
+            counter++;
+        }
+        return productOfRanges;
+    }
+    
+    
+    
    
 }
