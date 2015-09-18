@@ -41,6 +41,7 @@
 		CB0F1A281BA9B9AC0072406A /* largestProductInASeriesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = largestProductInASeriesTests.swift; sourceTree = "<group>"; };
 		CB0F1A321BA9BB5A0072406A /* Algorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
 		CB0F1A341BA9BBCA0072406A /* AlgorithmTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlgorithmTest.swift; sourceTree = "<group>"; };
+		CB5651A51BAB0CD700DA4443 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 				CB0F1A1B1BA9B9AC0072406A /* LaunchScreen.xib */,
 				CB0F1A101BA9B9AC0072406A /* Supporting Files */,
 				CB0F1A321BA9BB5A0072406A /* Algorithm.swift */,
+				CB5651A51BAB0CD700DA4443 /* MyPlayground.playground */,
 			);
 			path = largestProductInASeries;
 			sourceTree = "<group>";
@@ -163,6 +165,8 @@
 		CB0F1A051BA9B9AC0072406A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Kev Washington";
 				TargetAttributes = {

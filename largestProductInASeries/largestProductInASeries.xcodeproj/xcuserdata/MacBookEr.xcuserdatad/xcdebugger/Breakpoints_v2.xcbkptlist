@@ -31,6 +31,68 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "10"
             endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.__deallocating_deinit"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.270836"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)(invocation : Swift.Optional&lt;ObjectiveC.NSInvocation&gt;) -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.271711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)(selector : ObjectiveC.Selector) -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.272223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)() -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.272679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -40,61 +102,75 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "largestProductInASeriesTests/AlgorithmTest.swift"
-            timestampString = "464112282.428924"
+            timestampString = "464283358.25644"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "testItReturns5832WhenArgsAreStringAnd4()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "largestProductInASeries/Algorithm.swift"
-            timestampString = "464112756.386502"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "findLargestProductInSeries(_:adjacentCount:)"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "largestProductInASeries/Algorithm.swift"
-            timestampString = "464112887.646262"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "findLargestProductInSeries(_:adjacentCount:)"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "largestProductInASeries/Algorithm.swift"
-            timestampString = "464113344.756797"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "findLargestProductInSeries(_:adjacentCount:)"
-            landmarkType = "5">
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AlgorithmTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.__deallocating_deinit"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.274419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)(invocation : Swift.Optional&lt;ObjectiveC.NSInvocation&gt;) -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.274805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)(selector : ObjectiveC.Selector) -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.275665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "largestProductInASeriesTests.AlgorithmTest.init (largestProductInASeriesTests.AlgorithmTest.Type)() -&gt; largestProductInASeriesTests.AlgorithmTest"
+                  moduleName = "largestProductInASeriesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
+                  timestampString = "464283929.276054"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
