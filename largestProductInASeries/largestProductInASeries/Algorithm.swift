@@ -16,7 +16,14 @@ class Algorithm: NSObject {
     }
     
     func convertStringIntoArrayOfIntegers(stringToConvert: String) -> [Int] {
-        return [1,2,3,4,5,6,7,8,9];
+        var integerArray = [Int]();
+        for s in stringToConvert.characters {
+            let convertToString: String = String(s);
+            let convertToTempInt: Int? = Int(convertToString);
+            let convertToTrueInt: Int = convertToTempInt!;
+            integerArray.append(convertToTrueInt);
+        }
+        return integerArray;
     }
     
    

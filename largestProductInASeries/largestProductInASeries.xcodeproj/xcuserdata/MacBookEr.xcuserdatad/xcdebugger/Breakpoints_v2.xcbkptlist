@@ -40,7 +40,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.270836"
+                  timestampString = "464284438.381999"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -55,7 +55,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.271711"
+                  timestampString = "464284438.382564"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -70,7 +70,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.272223"
+                  timestampString = "464284438.38322"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -85,7 +85,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.272679"
+                  timestampString = "464284438.383682"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -118,7 +118,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.274419"
+                  timestampString = "464284438.384799"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -133,7 +133,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.274805"
+                  timestampString = "464284438.385181"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -148,7 +148,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.275665"
+                  timestampString = "464284438.385663"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -163,7 +163,7 @@
                   moduleName = "largestProductInASeriesTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/largestProductInASeries/largestProductInASeries/largestProductInASeriesTests/AlgorithmTest.swift"
-                  timestampString = "464283929.276054"
+                  timestampString = "464284438.386339"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -171,6 +171,22 @@
                   offsetFromSymbolStart = "12">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "largestProductInASeriesTests/AlgorithmTest.swift"
+            timestampString = "464284317.535936"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testItCanConvertAStringIntoAnArrayOfIntegers()"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
