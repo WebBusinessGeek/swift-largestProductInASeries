@@ -36,6 +36,24 @@ class Algorithm: NSObject {
         return productOfRanges;
     }
     
+    func findGreatestProductOfAdjacentIntegersInAString(stringToConvert: String, maxAdjacentIntegers: Int) -> Int {
+        
+        var productToReturn: Int = 0;
+
+        let integerArray = self.convertStringIntoArrayOfIntegers(stringToConvert);
+        let lastIndex = integerArray.endIndex - 1;
+        var startIndex = integerArray.startIndex;
+        var pushAhead = maxAdjacentIntegers - 1;
+        
+        while(pushAhead <= lastIndex) {
+            let product: Int = self.findProductOfSpecifiedRangeOfElementsInIntArray(integerArray, rangeStart: startIndex, rangeStop: pushAhead);
+            productToReturn = (product > productToReturn) ? product : productToReturn;
+            startIndex++;
+            pushAhead++;
+        }
+        return productToReturn;
+    }
+    
     
     
    
